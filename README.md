@@ -6,4 +6,18 @@
 ##### HEADING5
 ###### HEADING6
 
-__
+___
+
+## **Bold Text**
+**Bold Normal**
+*Italic Normal*
+
+## **Block Quotes**
+> check 1,2,3...
+
+**Ending It**
+## **Listing Way**
++ I am Bob
++ sublist
+  + Bob ate fruit
+  + Lol
